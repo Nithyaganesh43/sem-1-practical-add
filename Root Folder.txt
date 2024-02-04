@@ -4,11 +4,11 @@ Root Folder
 |    |    |-- File_Al.txt
 |    |    |- File_A2.uxt
 |   |-- Subfolder_A2
-I           |--File_A3.txt
+|           |--File_A3.txt
 |-- Folder_B
 |   |-- SubfolderB1
-I           |-- File_Bl.txt
-I-- FolderC
+|           |-- File_Bl.txt
+|-- FolderC
      |-- File_Cl.txt
       |-- File_C2.txt
 
